@@ -1,0 +1,17 @@
+
+footer {
+    background-image: url("img/footer.jpg");
+    background-color: #000;
+    background-size: cover;
+}
+
+.menu a img,
+.menu a p {
+    transition: transform .4s ease;
+    color: #343a40;
+}
+
+.menu a:hover img,
+.menu a:hover p {
+    transform: scale(1.1);
+}
