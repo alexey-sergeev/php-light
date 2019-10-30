@@ -33,11 +33,8 @@
 При создании примера использовались:
 
 Bootstrap - фреймворк для офрмления сайта (https://getbootstrap.com/, https://bootstrap-4.ru/)
-
 Font Awesome - набор инструментов для использования векторных иконок (https://fontawesome.com/)
-
 Картинки для оформления интерфейса сайта - https://www.flaticon.com/home
-
 Картинки для иллюстраций - https://pixabay.com/, https://pxhere.com/
 
 
